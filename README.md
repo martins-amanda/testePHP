@@ -16,7 +16,7 @@ Para isso:
 
 ![](https://github.com/martins-amanda/testePHP/blob/master/diagrama%20de%20classe%20.png)
 
-- obs:  
+
 
 
 ### O que será avaliado
