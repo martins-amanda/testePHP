@@ -8,7 +8,13 @@ Para isso:
 
 - Crie o banco, utilizando MySQL, conforme o modelo abaixo: 
 
+![](https://github.com/martins-amanda/testePHP/blob/master/modeloBanco.png)
+
+----
+
 - Com base no diagrama de classe implemente a classe funcionarios:
+
+![](https://github.com/martins-amanda/testePHP/blob/master/diagrama%20de%20classe%20.png)
 
 - obs:  
 
