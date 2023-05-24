@@ -12,7 +12,7 @@ Para isso:
 
 ----
 
-- Com base no diagrama de classe implemente a classe funcionarios:
+- Com base no diagrama de classe implemente a classe funcionario:
 
 ![](https://github.com/martins-amanda/testePHP/blob/master/diagrama%20de%20classe%20.png)
 
@@ -29,6 +29,6 @@ Para isso:
 
 
 ### Próximos passos
-1. Enviar a classe funcionário e o SQL do banco no forms: ;
-2. Caso o código analisado passe pelo nosso review, entraremos em contato para uma segunda entrevista.
+1. Enviar a classe funcionário e o SQL do banco no forms: https://docs.google.com/forms/d/e/1FAIpQLSdHlFkzHHyVy2ob50fBpneypMAkjcvDi5OBYIa2nC46CAcO9w/viewform;
+2. Após a review do código, iremos mandar um feedback pelo contato informado.
 
